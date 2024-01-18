@@ -12,7 +12,7 @@ Um quadrilátero com lados iguais é chamado de losango e um paralelogramo cujos
   7 - Armazene o resultado em uma variável
   8 - Exiba o resultado
 """ 
-print("Exiba "Bem-vindo ao calculador de área de paralelogramo")
+print("Exiba Bem-vindo ao calculador de área de paralelogramo")
 base = float(input("Insira o comprimento da base: "))
 altura = float(input("Insira a altura: "))
 area = base * altura
