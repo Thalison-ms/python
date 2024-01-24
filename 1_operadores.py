@@ -11,6 +11,8 @@ os.system('cls')
     **  Potência
     %   Módulo
 """
+print("-"*50)
+print("TYPE")
 a = "teste"
 print(type(1))
 print(4+4.0)
@@ -26,7 +28,7 @@ print("ORDEM DE OPERADORES")
 # 5 - // Módulo
 # 6 - % Porcentagem
 # 7 - + e - Soma e subtração
-
+# A soma entra strings gera a concatenação
 
 print("-"*50)
 print("CONVERSAO")
