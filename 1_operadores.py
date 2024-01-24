@@ -42,3 +42,8 @@ print("FUNCOES ABS, ROUND, POW")
 print(abs(-8))                      # Transforma um número negativo em positivo
 print(round(3.141416,2))            # Arredonda com número de casas desejado
 print(pow(4,2))                     # Realiza a potência, número/potência
+
+# Operador IN
+lista_teste_op = [100, 2, -5, 3.4]
+print(10 in lista_teste_op)
+print(15 in lista_teste_op)
