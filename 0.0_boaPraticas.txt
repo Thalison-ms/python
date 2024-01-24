@@ -1,0 +1,2 @@
+Python é case-sensitive, ou seja, maiusculo e minusculo faz diferença
+
