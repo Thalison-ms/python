@@ -1,4 +1,5 @@
 - Python é case-sensitive, ou seja, maiusculo e minusculo faz diferença
+- A indexação é exclusiva, ou seja, retorna até a posição anterior informada, exemplo a = "Babilonia", print(a[:3]) irá retornar "Bab"
 - Variáveis em Python tem tipagem Dinâmica, ou seja, a = 5 pode se tornar a = "Teste"
 - Nomenclaturas de variáveis não podem começar com número
 - Não é permitido o uso de palavras reservadas para nomear variáveis
