@@ -1,6 +1,7 @@
 ####### OPERADORES / TIPOS DE DADOS
 
 import os
+os.system('cls') 
 
 """
     +   Soma
@@ -10,13 +11,22 @@ import os
     **  Potência
     %   Módulo
 """
-os.system('cls') 
-
 a = "teste"
 print(type(1))
 print(4+4.0)
 print(4//2)
 print(4/2)
+
+print("-"*50)
+print("ORDEM DE OPERADORES")
+# 1 - () Parenteses
+# 2 - ** Potência
+# 3 - * Multiplicação
+# 4 - / Divisão
+# 5 - // Módulo
+# 6 - % Porcentagem
+# 7 - + e - Soma e subtração
+
 
 print("-"*50)
 print("CONVERSAO")
