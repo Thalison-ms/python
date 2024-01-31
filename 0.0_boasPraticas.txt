@@ -1,4 +1,5 @@
 - Python é case-sensitive, ou seja, maiusculo e minusculo faz diferença
+- Listas podem ser concatenadas em Python
 - Em Python existe a sobrecarga de operadores
 - São imutáveis (str, bool, float, int, long, complex, tuple)
 - A indexação é exclusiva, ou seja, retorna até a posição anterior informada, exemplo a = "Babilonia", print(a[:3]) irá retornar "Bab"
