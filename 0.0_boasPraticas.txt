@@ -1,3 +1,4 @@
+- Tudo em Python é objeto
 - Python é case-sensitive, ou seja, maiusculo e minusculo faz diferença
 - Listas podem ser concatenadas em Python
 - Em Python existe a sobrecarga de operadores
