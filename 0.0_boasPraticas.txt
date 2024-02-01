@@ -1,4 +1,5 @@
 - Tudo em Python é objeto
+- Pacote em Python é um conjunto de scripts, onde cada script é uma função
 - Python é case-sensitive, ou seja, maiusculo e minusculo faz diferença
 - Listas podem ser concatenadas em Python
 - Em Python existe a sobrecarga de operadores
