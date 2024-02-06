@@ -9,3 +9,5 @@
 - Nomenclaturas de variáveis não podem começar com número
 - Não é permitido o uso de palavras reservadas para nomear variáveis
 False, class, finally, is, return, None, continue, for, lambda, try, True, def, from, nonlocal, while, and, del, global, not, with, as, elif, if, or, yield, assert, else, import, pass, break, except, in, raise
+- Em Python, um módulo é um arquivo(script) que contém código Python e pode ser importado em outros arquivos Python. Ele é usado para compartilhar funções, classes e variáveis entre arquivos. Já um pacote é uma coleção de módulos organizados em uma estrutura de diretórios. Ele permite  a divisão de um aplicativo em múltiplos módulos, o que facilita a manutenção e desenvolvimento.
+
